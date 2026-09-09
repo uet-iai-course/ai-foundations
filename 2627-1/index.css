@@ -1,1 +1,17 @@
-body{margin:0;background:#f8f6f1;color:#243651;font:20px/1.5 Arial,sans-serif}main{max-width:980px;margin:10vh auto;padding:24px}.eyebrow{font-size:15px;letter-spacing:.15em;color:#9b5028}h1{font-size:48px;font-weight:600}ul{list-style:none;padding:0}li{margin:20px 0;padding:26px;background:white;border:1px solid #dedbd3;border-radius:6px}a{color:#253862;text-decoration:none}a:hover{text-decoration:underline}a:focus-visible{outline:3px solid #ad582c;outline-offset:5px}
+/* Semester listing uses the shared course index theme. */
+.term-grid {
+  grid-template-columns: minmax(0, 1fr);
+}
+.term-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 20px 28px;
+  min-height: 0;
+}
+.term-card .term-link { align-self: center; }
+.term-card p { margin-bottom: 0; }
+@media (max-width: 620px) {
+  .term-card { grid-template-columns: minmax(0, 1fr); }
+  .term-card .term-link { justify-self: start; }
+}

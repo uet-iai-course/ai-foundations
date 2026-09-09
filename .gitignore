@@ -1,6 +1,8 @@
 # This repository publishes only the runnable website.
 /*
 !/.gitignore
+!/index.html
+!/index-pages.css
 !/2627-1/
 /2627-1/planning/
 
