@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 406" data-redrawn="manual" role="img" aria-labelledby="title desc">
+<title id="title">Cây Greedy chọn Fagaras</title><desc id="desc">Arad và Sibiu màu xám. Sibiu có các con Arad 366, Fagaras 176, Oradea 380 và Rimnicu Vilcea 193; mũi tên đỏ chỉ Fagaras.</desc>
+<rect id="source-white-canvas" x="0" y="0" width="1500" height="406" fill="white" /><path d="M858 55 L385 160" stroke="#ccc" stroke-width="1.5" fill="none" data-edge="r--s" />
+<path d="M858 55 L995 160" stroke="#ccc" stroke-width="1.5" fill="none" data-edge="r--t" />
+<path d="M858 55 L1413 160" stroke="#ccc" stroke-width="1.5" fill="none" data-edge="r--z" />
+<path d="M385 206 L89 311" stroke="#ccc" stroke-width="1.5" fill="none" data-edge="s--a" />
+<path d="M385 206 L287 311" stroke="#ccc" stroke-width="1.5" fill="none" data-edge="s--f" />
+<path d="M385 206 L480 311" stroke="#ccc" stroke-width="1.5" fill="none" data-edge="s--o" />
+<path d="M385 206 L678 311" stroke="#ccc" stroke-width="1.5" fill="none" data-edge="s--v" />
+<ellipse cx="858" cy="32" rx="80" ry="23" fill="#bbb" stroke="#aaa" stroke-width="1.5" data-node="r" />
+<text x="858" y="41" font-family="Arial, Liberation Sans, sans-serif" font-size="27" text-anchor="middle">Arad</text>
+<ellipse cx="385" cy="183" rx="80" ry="23" fill="#bbb" stroke="#aaa" stroke-width="1.5" data-node="s" />
+<text x="385" y="192" font-family="Arial, Liberation Sans, sans-serif" font-size="27" text-anchor="middle">Sibiu</text>
+<ellipse cx="995" cy="183" rx="80" ry="23" fill="white" stroke="black" stroke-width="4" data-node="t" />
+<text x="995" y="192" font-family="Arial, Liberation Sans, sans-serif" font-size="27" text-anchor="middle">Timisoara</text>
+<text x="995" y="237" font-family="Arial, Liberation Sans, sans-serif" font-size="28" text-anchor="middle">329</text>
+<ellipse cx="1413" cy="183" rx="80" ry="23" fill="white" stroke="black" stroke-width="4" data-node="z" />
+<text x="1413" y="192" font-family="Arial, Liberation Sans, sans-serif" font-size="27" text-anchor="middle">Zerind</text>
+<text x="1413" y="237" font-family="Arial, Liberation Sans, sans-serif" font-size="28" text-anchor="middle">374</text>
+<ellipse cx="89" cy="334" rx="80" ry="23" fill="white" stroke="black" stroke-width="4" data-node="a" />
+<text x="89" y="343" font-family="Arial, Liberation Sans, sans-serif" font-size="27" text-anchor="middle">Arad</text>
+<text x="89" y="388" font-family="Arial, Liberation Sans, sans-serif" font-size="28" text-anchor="middle">366</text>
+<ellipse cx="287" cy="334" rx="80" ry="23" fill="white" stroke="black" stroke-width="4" data-node="f" />
+<text x="287" y="343" font-family="Arial, Liberation Sans, sans-serif" font-size="27" text-anchor="middle">Fagaras</text>
+<text x="287" y="388" font-family="Arial, Liberation Sans, sans-serif" font-size="28" text-anchor="middle">176</text>
+<path d="M181 321 L201 334 L181 347 Z" stroke="red" stroke-width="4" fill="none" />
+<ellipse cx="480" cy="334" rx="80" ry="23" fill="white" stroke="black" stroke-width="4" data-node="o" />
+<text x="480" y="343" font-family="Arial, Liberation Sans, sans-serif" font-size="27" text-anchor="middle">Oradea</text>
+<text x="480" y="388" font-family="Arial, Liberation Sans, sans-serif" font-size="28" text-anchor="middle">380</text>
+<ellipse cx="678" cy="334" rx="80" ry="23" fill="white" stroke="black" stroke-width="4" data-node="v" />
+<text x="678" y="343" font-family="Arial, Liberation Sans, sans-serif" font-size="24" text-anchor="middle" textLength="140" lengthAdjust="spacingAndGlyphs">Rimnicu Vilcea</text>
+<text x="678" y="388" font-family="Arial, Liberation Sans, sans-serif" font-size="28" text-anchor="middle">193</text>
+</svg>

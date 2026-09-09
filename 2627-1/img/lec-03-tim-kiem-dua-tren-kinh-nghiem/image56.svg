@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 746 85" data-redrawn="manual" role="img" aria-labelledby="title desc">
+<title id="title">∀n : h_a(n) ≥ h_c(n)</title>
+<desc id="desc">Biểu thức ∀n : h_a(n) ≥ h_c(n) màu đỏ.</desc>
+<g transform="matrix(0.94173383 0 0 0.82620000 10.44400000 63.15500000)"><text x="0" y="0" xml:space="preserve" font-family="Latin Modern Roman, STIX, Times New Roman, serif" font-size="100" fill="#ff0000"><tspan font-style="normal">∀</tspan><tspan font-style="italic">n</tspan><tspan font-style="normal"> : </tspan><tspan font-style="italic">h</tspan><tspan font-style="italic" font-size="70" baseline-shift="-15">a</tspan><tspan font-style="normal">(</tspan><tspan font-style="italic">n</tspan><tspan font-style="normal">) ≥ </tspan><tspan font-style="italic">h</tspan><tspan font-style="italic" font-size="70" baseline-shift="-15">c</tspan><tspan font-style="normal">(</tspan><tspan font-style="italic">n</tspan><tspan font-style="normal">)</tspan></text></g>
+</svg>

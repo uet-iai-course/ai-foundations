@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 350" data-redrawn="manual" role="img" aria-labelledby="title desc">
+<title id="title">h*(n)</title>
+<desc id="desc">Biểu thức h*(n) màu đỏ.</desc>
+<g transform="matrix(4.06592754 0 0 3.40200000 -16.56149278 260.05000000)"><text x="0" y="0" xml:space="preserve" font-family="Latin Modern Roman, STIX, Times New Roman, serif" font-size="100" fill="#b80000"><tspan font-style="italic">h</tspan><tspan font-style="normal" font-size="70" baseline-shift="35">∗</tspan><tspan font-style="normal">(</tspan><tspan font-style="italic">n</tspan><tspan font-style="normal">)</tspan></text></g>
+</svg>

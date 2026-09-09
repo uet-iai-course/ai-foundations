@@ -1,0 +1,15 @@
+# This repository publishes only the runnable website.
+/*
+!/.gitignore
+!/2627-1/
+/2627-1/planning/
+
+.env
+.env.*
+__pycache__/
+*.pyc
+node_modules/
+*.log
+.DS_Store
+._*
+~$*.pptx

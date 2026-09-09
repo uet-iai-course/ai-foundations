@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3250 333" data-redrawn="manual" role="img" aria-labelledby="title desc">
+<title id="title">f(n) ≤ f(A) &lt; f(B)</title>
+<desc id="desc">Biểu thức f(n) ≤ f(A) &lt; f(B) màu đỏ.</desc>
+<g transform="matrix(3.95382048 0 0 3.23676000 57.36146143 247.41900000)"><text x="0" y="0" xml:space="preserve" font-family="Latin Modern Roman, STIX, Times New Roman, serif" font-size="100" fill="#b6321c"><tspan font-style="italic">f</tspan><tspan font-style="normal">(</tspan><tspan font-style="italic">n</tspan><tspan font-style="normal">) ≤ </tspan><tspan font-style="italic">f</tspan><tspan font-style="normal">(</tspan><tspan font-style="italic">A</tspan><tspan font-style="normal">) &lt; </tspan><tspan font-style="italic">f</tspan><tspan font-style="normal">(</tspan><tspan font-style="italic">B</tspan><tspan font-style="normal">)</tspan></text></g>
+</svg>

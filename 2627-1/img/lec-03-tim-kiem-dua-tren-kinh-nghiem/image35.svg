@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3150 333" data-redrawn="manual" role="img" aria-labelledby="title desc">
+<title id="title">f(n) = g(n) + h(n)</title>
+<desc id="desc">Biểu thức f(n) = g(n) + h(n) màu đen.</desc>
+<g transform="matrix(3.77213456 0 0 3.23676000 55.41640369 247.41900000)"><text x="0" y="0" xml:space="preserve" font-family="Latin Modern Roman, STIX, Times New Roman, serif" font-size="100" fill="#000000"><tspan font-style="italic">f</tspan><tspan font-style="normal">(</tspan><tspan font-style="italic">n</tspan><tspan font-style="normal">) = </tspan><tspan font-style="italic">g</tspan><tspan font-style="normal">(</tspan><tspan font-style="italic">n</tspan><tspan font-style="normal">) + </tspan><tspan font-style="italic">h</tspan><tspan font-style="normal">(</tspan><tspan font-style="italic">n</tspan><tspan font-style="normal">)</tspan></text></g>
+</svg>

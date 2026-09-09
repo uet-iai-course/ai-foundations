@@ -1,0 +1,30 @@
+/* Original-coordinate slides: text remains editable, diagrams remain SVG. */
+.reveal .slides section:has(> .native-stage) { padding:0; height:var(--slide-height,720px); }
+.native-stage { position:absolute; inset:0; width:1280px; height:var(--slide-height,720px); text-align:left; }
+.native-layer { position:absolute; inset:0; width:1280px; height:100%; overflow:visible; pointer-events:none; }
+.native-text { position:absolute; box-sizing:border-box; display:flex; flex-direction:column; }
+.reveal .native-text p,.reveal .native-text h2 { flex:none; margin:0; padding:0; font-weight:normal; letter-spacing:normal; text-transform:none; overflow-wrap:normal; }
+.native-text span { white-space:pre-wrap; }
+.native-bullet { display:inline-block; width:1em; }
+.reveal .native-video { position:absolute; margin:0; max-width:none; max-height:none; background:#000; }
+.native-code { position:absolute; }
+.reveal .native-code pre { margin:0; padding:12px; width:100%; height:100%; box-sizing:border-box; box-shadow:none; white-space:pre; font:24px/1.55 'Liberation Mono',monospace; }
+.reveal .native-code code { padding:0; max-height:none; background:transparent; color:#000; }
+.reveal .native-source-code { position:absolute; display:flex; margin:0; box-shadow:none; font:inherit; white-space:normal; }
+.reveal .native-source-code > code { display:block; padding:0; max-height:none; overflow:visible; background:transparent; color:inherit; font:inherit; white-space:normal; }
+
+/* Palatino source text uses the local TeX Gyre Pagella substitute. */
+@font-face { font-family:Palatino; src:url("vendor/tex-gyre-pagella/texgyrepagella-regular.otf") format("opentype"); font-weight:400; font-style:normal; font-display:block; }
+@font-face { font-family:Palatino; src:url("vendor/tex-gyre-pagella/texgyrepagella-bold.otf") format("opentype"); font-weight:700; font-style:normal; font-display:block; }
+@font-face { font-family:Palatino; src:url("vendor/tex-gyre-pagella/texgyrepagella-italic.otf") format("opentype"); font-weight:400; font-style:italic; font-display:block; }
+@font-face { font-family:Palatino; src:url("vendor/tex-gyre-pagella/texgyrepagella-bolditalic.otf") format("opentype"); font-weight:700; font-style:italic; font-display:block; }
+
+/* Office Math uses a bundled OpenType math font at the source run size. */
+@font-face { font-family: "Latin Modern Math"; src: url("vendor/latin-modern-math/latinmodern-math.otf") format("opentype"); font-weight: 400; font-style: normal; font-display: block; }
+.native-text math span { font-family: "Latin Modern Math", math !important; font-style: normal !important; }
+
+/* Monospaced fallback for source Consolas runs, also used by the reference PDF. */
+@font-face { font-family:"DejaVu Sans Mono"; src:url("vendor/dejavu-sans-mono/DejaVuSansMono.ttf") format("truetype"); font-weight:400; font-style:normal; font-display:block; }
+@font-face { font-family:"DejaVu Sans Mono"; src:url("vendor/dejavu-sans-mono/DejaVuSansMono-Bold.ttf") format("truetype"); font-weight:700; font-style:normal; font-display:block; }
+@font-face { font-family:"DejaVu Sans Mono"; src:url("vendor/dejavu-sans-mono/DejaVuSansMono-Oblique.ttf") format("truetype"); font-weight:400; font-style:italic; font-display:block; }
+@font-face { font-family:"DejaVu Sans Mono"; src:url("vendor/dejavu-sans-mono/DejaVuSansMono-BoldOblique.ttf") format("truetype"); font-weight:700; font-style:italic; font-display:block; }

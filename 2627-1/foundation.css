@@ -1,0 +1,33 @@
+/* Shared additions to the lecture-style.css copied from ../rl-plan. */
+:root { --ink:#253862; --accent:#ad582c; }
+.reveal { font-family:Arial,"Liberation Sans",sans-serif; font-size:30px; color:#172333; }
+.reveal .slides section[data-slide-id] { box-sizing:border-box; height:720px; padding:26px 38px 38px; }
+.reveal h1,.reveal h2,.reveal h3 { text-transform:none; color:var(--ink); font-weight:650; }
+.reveal h1 { font-size:1.7em; }
+.reveal h2 { font-size:1.27em; margin:0 0 24px; line-height:1.18; }
+.reveal h3 { font-size:1em; margin:0 0 12px; }
+.reveal p { margin:0 0 17px; line-height:1.32; }
+.reveal ul,.reveal ol { display:block; margin:0 0 15px 22px; padding-left:17px; line-height:1.35; }
+.reveal li { margin-bottom:8px; }
+.reveal li li { margin-bottom:3px; }
+.reveal img { border:0; box-shadow:none; margin:0; max-width:100%; max-height:470px; object-fit:contain; }
+.reveal figure { margin:0; min-width:0; text-align:center; }
+.reveal figcaption,.reveal .credit,.reveal .source-credit { font-size:17px; line-height:1.25; color:#52606c; }
+.reveal .columns { display:grid; grid-template-columns:1fr 1fr; gap:30px; align-items:start; }
+.reveal .columns > * { flex:1; min-width:0; }
+.reveal .col { min-width:0; }
+.reveal .compact { font-size:26px; }
+.reveal .small { font-size:23px; }
+.reveal .small p,.reveal .small ul { margin-bottom:12px; }
+.reveal .small li { margin-bottom:5px; }
+.reveal .gallery { display:grid; grid-template-columns:repeat(3,1fr); gap:18px; }
+.reveal .gallery img { height:200px; }
+.reveal .portrait-grid { display:grid; grid-template-columns:repeat(5,1fr); gap:15px; }
+.reveal .portrait-grid img { height:145px; }
+.reveal .portrait-grid figcaption { font-size:20px; }
+.reveal .hero { display:block; margin:10px auto; max-height:490px; }
+.reveal .matrix { display:grid; grid-template-columns:1fr 1fr; gap:12px; }
+.reveal .matrix > * { padding:15px; border:1px solid #ccd5df; }
+.reveal .katex { font-size:1.05em; }
+.reveal a { overflow-wrap:anywhere; }
+@media print { .reveal .slides section[data-slide-id] { height:720px!important; } }

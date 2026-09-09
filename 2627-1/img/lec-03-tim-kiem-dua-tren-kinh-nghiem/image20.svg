@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1244 252" data-redrawn="manual" role="img" aria-labelledby="title desc">
+<title id="title">Cây Greedy chọn Sibiu</title><desc id="desc">Arad màu xám nối với Sibiu 253, Timisoara 329 và Zerind 374; mũi tên đỏ chỉ Sibiu.</desc>
+<rect id="source-white-canvas" x="0" y="0" width="1244" height="252" fill="white" /><path d="M597 59 L123 164" stroke="#ccc" stroke-width="1.5" fill="none" data-edge="r--s" />
+<path d="M597 59 L733 164" stroke="#ccc" stroke-width="1.5" fill="none" data-edge="r--t" />
+<path d="M597 59 L1153 164" stroke="#ccc" stroke-width="1.5" fill="none" data-edge="r--z" />
+<ellipse cx="597" cy="36" rx="80" ry="23" fill="#bbb" stroke="#aaa" stroke-width="1.5" data-node="r" />
+<text x="597" y="45" font-family="Arial, Liberation Sans, sans-serif" font-size="27" text-anchor="middle">Arad</text>
+<ellipse cx="123" cy="187" rx="80" ry="23" fill="white" stroke="black" stroke-width="4" data-node="s" />
+<text x="123" y="196" font-family="Arial, Liberation Sans, sans-serif" font-size="27" text-anchor="middle">Sibiu</text>
+<text x="123" y="241" font-family="Arial, Liberation Sans, sans-serif" font-size="28" text-anchor="middle">253</text>
+<path d="M17 174 L37 187 L17 200 Z" stroke="red" stroke-width="4" fill="none" />
+<ellipse cx="733" cy="187" rx="80" ry="23" fill="white" stroke="black" stroke-width="4" data-node="t" />
+<text x="733" y="196" font-family="Arial, Liberation Sans, sans-serif" font-size="27" text-anchor="middle">Timisoara</text>
+<text x="733" y="241" font-family="Arial, Liberation Sans, sans-serif" font-size="28" text-anchor="middle">329</text>
+<ellipse cx="1153" cy="187" rx="80" ry="23" fill="white" stroke="black" stroke-width="4" data-node="z" />
+<text x="1153" y="196" font-family="Arial, Liberation Sans, sans-serif" font-size="27" text-anchor="middle">Zerind</text>
+<text x="1153" y="241" font-family="Arial, Liberation Sans, sans-serif" font-size="28" text-anchor="middle">374</text>
+</svg>

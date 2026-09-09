@@ -1,0 +1,396 @@
+.reveal .slides section {
+    text-align: left;
+}
+
+.reveal .controls .controls-arrow {
+    color: #B15A2B;
+}
+
+.reveal .progress span {
+    background: #B15A2B;
+}
+
+.reveal .text-blue {
+    color: #B15A2B !important;
+}
+
+.reveal .text-red {
+    color: #E62727 !important;
+}
+
+.reveal .text-light {
+    color: #666 !important;
+}
+
+.reveal .text-center {
+    text-align: center !important;
+}
+
+.reveal .bg-light {
+    background-color: #F7EFE6 !important;
+}
+
+.reveal .text-purple {
+    color: #7B5EA7 !important;
+}
+
+.reveal .text-green {
+    color: #2E7D32 !important;
+}
+
+.reveal .text-orange {
+    color: #C2610F !important;
+}
+
+.reveal .text-teal {
+    color: #B15A2B !important;
+}
+
+.reveal a {
+    color: #B15A2B;
+}
+
+.reveal ul,
+.reveal ol {
+    padding-left: 1rem;
+    line-height: 1.4em;
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+}
+
+.reveal ul ul,
+.reveal ol ol,
+.reveal ul ol,
+.reveal ol ul {
+    font-size: 0.9em;
+}
+
+.reveal .footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: left;
+    font-size: 1rem;
+    color: #888;
+}
+
+/* Hide footer when the first slide is showing */
+.reveal section:first-of-type.present~.footer {
+    display: none;
+}
+
+.reveal .keyword {
+    color: #2F3E7A;
+    font-weight: 700;
+}
+
+.reveal .inline-code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f4f4f4;
+    padding: 2px 4px;
+    border-radius: 4px;
+    /* font-weight: bold; */
+    text-transform: none !important;
+}
+
+.reveal .slide-badge-row {
+    text-align: right;
+    margin: 0 0 0.35em;
+}
+
+.reveal .self-study-badge {
+    display: inline-block;
+    background: #90A4AE;
+    color: white;
+    font-size: 0.42em;
+    padding: 3px 10px;
+    border-radius: 16px;
+    font-weight: 600;
+}
+
+.reveal .advanced-badge {
+    display: inline-block;
+    background: #7B5EA7;
+    color: white;
+    font-size: 0.42em;
+    padding: 3px 10px;
+    border-radius: 16px;
+    font-weight: 600;
+}
+
+.reveal .fragment.blur {
+    filter: blur(5px);
+}
+
+.reveal .fragment.blur.visible {
+    filter: none;
+}
+
+.reveal .question-box {
+    border: 3px solid #B15A2B;
+    border-radius: 16px;
+    padding: 0.75em;
+    /* max-width: 700px; */
+    margin: auto;
+    background: #F7EFE6;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+.reveal .question-title {
+    /* font-size: 1.2em; */
+    font-weight: bold;
+    color: #B15A2B;
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.reveal .question-content {
+    /* font-size: 1.4em; */
+    line-height: 1.4;
+    color: #333;
+}
+
+/* Pipeline diagram */
+
+.reveal .pipeline {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 0.5em;
+    margin-top: 1em;
+    flex-wrap: wrap;
+}
+
+.reveal .pipeline .stage {
+    background: #F7EFE6;
+    border: 2px solid #B15A2B;
+    border-radius: 10px;
+    padding: 0.5em;
+    width: 140px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.reveal .pipeline .stage-title {
+    font-weight: bold;
+    color: #B15A2B;
+    margin-bottom: 0.5em;
+}
+
+.reveal .pipeline .stage-desc {
+    font-size: 0.8em;
+    color: #333;
+}
+
+.reveal .pipeline .arrow {
+    display: flex;
+    align-items: center;
+    font-size: 1.5em;
+    color: #B15A2B;
+}
+
+.reveal .caption {
+    text-align: center;
+    margin-top: 0.8em;
+    font-size: 0.8em;
+    font-style: italic;
+    color: #666;
+}
+
+/* ============================================
+   Part 1 outline decks
+   ============================================ */
+.reveal .outline-grid-2,
+.reveal .outline-grid-3,
+.reveal .outline-grid-4 {
+    display: grid;
+    gap: 12px;
+}
+
+.reveal .outline-grid-2 {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.reveal .outline-grid-3 {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.reveal .outline-grid-4 {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.reveal .outline-card {
+    border-radius: 8px;
+    padding: 10px 13px;
+    background: #fafafa;
+    border-left: 5px solid #90A4AE;
+}
+
+.reveal .outline-card p,
+.reveal .stub-slide p {
+    margin: 0.35em 0 0;
+}
+
+.reveal .outline-blue {
+    background: #e3f2fd;
+    border-left-color: #1565c0;
+}
+
+.reveal .outline-green {
+    background: #e8f5e9;
+    border-left-color: #2e7d32;
+}
+
+.reveal .outline-orange {
+    background: #fff3e0;
+    border-left-color: #ef6c00;
+}
+
+.reveal .outline-red {
+    background: #ffebee;
+    border-left-color: #c62828;
+}
+
+.reveal .outline-purple {
+    background: #f3e5f5;
+    border-left-color: #7b1fa2;
+}
+
+.reveal .outline-card strong.outline-title {
+    color: #263238;
+}
+
+.reveal .stub-slide {
+    border: 1px dashed #b0bec5;
+    border-radius: 8px;
+    padding: 10px 13px;
+    background: #fbfbfb;
+}
+
+.reveal .stub-label {
+    display: inline-block;
+    color: #546e7a;
+    font-size: 0.68em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 0.2em;
+}
+
+.reveal .objective-box {
+    background: #fff3e0;
+    border-left: 5px solid #ff9800;
+    border-radius: 8px;
+    padding: 12px 16px;
+}
+
+.reveal .source-note {
+    margin-top: 0.55em;
+    color: #666;
+    font-size: 0.75em;
+    font-style: italic;
+}
+
+@media (max-width: 900px) {
+    .reveal .outline-grid-3,
+    .reveal .outline-grid-4 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 680px) {
+    .reveal .outline-grid-2,
+    .reveal .outline-grid-3,
+    .reveal .outline-grid-4 {
+        grid-template-columns: 1fr;
+    }
+}
+
+.reveal .fst-italic {
+    font-style: italic;
+}
+
+/* Responsive: stack nicely on narrow displays */
+@media (max-width: 900px) {
+    .reveal .pipeline {
+        font-size: 0.8em;
+    }
+
+    .reveal .stage {
+        width: 160px;
+    }
+}
+
+@media (max-width: 680px) {
+    .reveal .pipeline {
+        gap: 0.6em;
+    }
+
+    .reveal .arrow {
+        display: none;
+    }
+
+    .reveal .stage {
+        width: 100%;
+        max-width: 420px;
+    }
+}
+
+/* Hide line numbers ONLY for code blocks with class 'no-line-numbers' */
+.reveal pre code.no-line-numbers .hljs-ln-numbers {
+    display: none !important;
+}
+
+/* Line numbers (when data-line-numbers): tránh wrap số 2 chữ số */
+.reveal pre code .hljs-ln-numbers,
+.reveal pre code .hljs-ln-numbers .hljs-ln-n {
+    white-space: nowrap !important;
+    text-align: right;
+    padding-right: 8px;
+    min-width: 1.6em;
+    color: #888;
+    user-select: none;
+}
+
+.reveal pre code .hljs-ln-line {
+    vertical-align: top;
+}
+
+/* ============================================
+   Sudoku grid (lec10) — 9x9 with thick 3x3 borders
+   ============================================ */
+.reveal .sudoku-grid {
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-size: 0.9em;
+    font-family: var(--font-sans, sans-serif);
+}
+
+.reveal .sudoku-grid td {
+    width: 34px;
+    height: 34px;
+    text-align: center;
+    border: 1px solid #999;
+    padding: 0;
+}
+
+.reveal .sudoku-grid tr:first-child td       { border-top: 2px solid #333; }
+.reveal .sudoku-grid tr:nth-child(3n) td     { border-bottom: 2px solid #333; }
+.reveal .sudoku-grid tr:last-child td        { border-bottom: 2px solid #333; }
+.reveal .sudoku-grid td:first-child          { border-left: 2px solid #333; }
+.reveal .sudoku-grid td:nth-child(3n)        { border-right: 2px solid #333; }
+.reveal .sudoku-grid td:last-child           { border-right: 2px solid #333; }
+
+.reveal .sudoku-grid td.highlight {
+    background: #fff3cd;
+    font-weight: bold;
+}
+
+/* Modifier: large grid (more readable on projector) */
+.reveal .sudoku-grid--lg td {
+    width: 46px;
+    height: 46px;
+    font-size: 1.15em;
+}

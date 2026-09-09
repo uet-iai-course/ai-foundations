@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 71" data-redrawn="manual" role="img" aria-labelledby="title desc">
+<title id="title">max(h_a, h_b)</title>
+<desc id="desc">Biểu thức max(h_a, h_b) màu xanh lam.</desc>
+<g transform="matrix(0.77477706 0 0 0.69012000 -0.94821646 52.75300000)"><text x="0" y="0" xml:space="preserve" font-family="Latin Modern Roman, STIX, Times New Roman, serif" font-size="100" fill="#0000ff"><tspan font-style="italic">max</tspan><tspan font-style="normal">(</tspan><tspan font-style="italic">h</tspan><tspan font-style="italic" font-size="70" baseline-shift="-15">a</tspan><tspan font-style="normal">, </tspan><tspan font-style="italic">h</tspan><tspan font-style="italic" font-size="70" baseline-shift="-15">b</tspan><tspan font-style="normal">)</tspan></text></g>
+</svg>

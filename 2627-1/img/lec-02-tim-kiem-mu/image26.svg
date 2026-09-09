@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1273 328" role="img" data-redrawn="manual" aria-labelledby="title desc">
+<title id="title">Cây tìm kiếm từ Arad</title>
+<desc id="desc">Gốc Arad có ba con Sibiu, Timisoara và Zerind. Các nhánh và nút chưa mở rộng có nét đứt xanh; tầng dưới có các thành phố Arad, Fagaras, Oradea, Rimnicu Vilcea và Lugoj.</desc>
+<rect width="1273" height="328" fill="white"/>
+<path d="M678 47 L307 129" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-edge="r--s"/>
+<path d="M678 47 L789 129" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-edge="r--t"/>
+<path d="M678 47 L1119 129" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-edge="r--z"/>
+<path d="M307 165 L74 248" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-edge="s--sa"/>
+<path d="M307 165 L230 248" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-edge="s--sf"/>
+<path d="M307 165 L383 248" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-edge="s--so"/>
+<path d="M307 165 L538 248" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-edge="s--sr"/>
+<path d="M789 165 L715 248" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-edge="t--ta"/>
+<path d="M789 165 L869 248" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-edge="t--tl"/>
+<path d="M1119 165 L1048 248" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-edge="z--za"/>
+<path d="M1119 165 L1200 248" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-edge="z--zo"/>
+<path d="M74 284 L18 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M74 284 L74 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M74 284 L130 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M230 284 L187 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M230 284 L273 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M383 284 L340 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M383 284 L426 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M538 284 L482 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M538 284 L538 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M538 284 L594 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M715 284 L659 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M715 284 L715 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M715 284 L771 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M869 284 L826 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M869 284 L912 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M1048 284 L992 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M1048 284 L1048 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M1048 284 L1104 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M1200 284 L1157 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<path d="M1200 284 L1243 316" fill="none" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8"/>
+<ellipse cx="678" cy="29" rx="64" ry="18" fill="white" stroke="black" stroke-width="3" data-node="r"/>
+<text x="678" y="36" text-anchor="middle" fill="black" font-family="Arial, sans-serif" font-size="23">Arad</text>
+<ellipse cx="307" cy="147" rx="64" ry="18" fill="white" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-node="s"/>
+<text x="307" y="154" text-anchor="middle" fill="#00ff00" font-family="Arial, sans-serif" font-size="23">Sibiu</text>
+<ellipse cx="789" cy="147" rx="64" ry="18" fill="white" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-node="t"/>
+<text x="789" y="154" text-anchor="middle" fill="#00ff00" font-family="Arial, sans-serif" font-size="23">Timisoara</text>
+<ellipse cx="1119" cy="147" rx="64" ry="18" fill="white" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-node="z"/>
+<text x="1119" y="154" text-anchor="middle" fill="#00ff00" font-family="Arial, sans-serif" font-size="23">Zerind</text>
+<ellipse cx="74" cy="266" rx="64" ry="18" fill="white" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-node="sa"/>
+<text x="74" y="273" text-anchor="middle" fill="#00ff00" font-family="Arial, sans-serif" font-size="23">Arad</text>
+<ellipse cx="230" cy="266" rx="64" ry="18" fill="white" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-node="sf"/>
+<text x="230" y="273" text-anchor="middle" fill="#00ff00" font-family="Arial, sans-serif" font-size="23">Fagaras</text>
+<ellipse cx="383" cy="266" rx="64" ry="18" fill="white" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-node="so"/>
+<text x="383" y="273" text-anchor="middle" fill="#00ff00" font-family="Arial, sans-serif" font-size="23">Oradea</text>
+<ellipse cx="538" cy="266" rx="64" ry="18" fill="white" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-node="sr"/>
+<text x="538" y="273" text-anchor="middle" fill="#00ff00" font-family="Arial, sans-serif" font-size="18">Rimnicu Vilcea</text>
+<ellipse cx="715" cy="266" rx="64" ry="18" fill="white" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-node="ta"/>
+<text x="715" y="273" text-anchor="middle" fill="#00ff00" font-family="Arial, sans-serif" font-size="23">Arad</text>
+<ellipse cx="869" cy="266" rx="64" ry="18" fill="white" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-node="tl"/>
+<text x="869" y="273" text-anchor="middle" fill="#00ff00" font-family="Arial, sans-serif" font-size="23">Lugoj</text>
+<ellipse cx="1048" cy="266" rx="64" ry="18" fill="white" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-node="za"/>
+<text x="1048" y="273" text-anchor="middle" fill="#00ff00" font-family="Arial, sans-serif" font-size="23">Arad</text>
+<ellipse cx="1200" cy="266" rx="64" ry="18" fill="white" stroke="#00ff00" stroke-width="1.6" stroke-dasharray="22 8" data-node="zo"/>
+<text x="1200" y="273" text-anchor="middle" fill="#00ff00" font-family="Arial, sans-serif" font-size="23">Oradea</text>
+</svg>

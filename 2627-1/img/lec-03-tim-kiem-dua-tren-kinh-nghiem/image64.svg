@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1052 414" data-redrawn="manual" role="img" aria-labelledby="title desc">
+<title id="title">Đồ thị trạng thái và cây tìm kiếm lặp</title><desc id="desc">Bên trái có các trạng thái A, B, C, D với hai cung hướng xuống giữa mỗi cặp; bên phải là cây A với hai bản sao B và bốn bản sao C.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 8" refX="9" refY="4" markerWidth="10" markerHeight="8" orient="auto"><path d="M0 0 L10 4 L0 8 Z" fill="black"/></marker></defs>
+<path d="M191 51 C131 56 101 66 101 97" fill="none" stroke="#333" stroke-width="1.5" />
+<path d="M101 97 C101 128 131 141 191 147" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M191 51 C251 56 281 66 281 97" fill="none" stroke="#333" stroke-width="1.5" />
+<path d="M281 97 C281 128 251 141 191 147" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M191 147 C131 152 101 162 101 193" fill="none" stroke="#333" stroke-width="1.5" />
+<path d="M101 193 C101 224 131 237 191 243" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M191 147 C251 152 281 162 281 193" fill="none" stroke="#333" stroke-width="1.5" />
+<path d="M281 193 C281 224 251 237 191 243" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M191 243 C131 248 101 258 101 289" fill="none" stroke="#333" stroke-width="1.5" />
+<path d="M101 289 C101 320 131 333 191 339" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M191 243 C251 248 281 258 281 289" fill="none" stroke="#333" stroke-width="1.5" />
+<path d="M281 289 C281 320 251 333 191 339" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M191 339 C131 344 101 354 101 386" fill="none" stroke="#333" stroke-width="1.5" />
+<path d="M191 339 C251 344 281 354 281 386" fill="none" stroke="#333" stroke-width="1.5" />
+<path d="M97 85 L105 85 L101 100 Z" fill="black"/>
+<path d="M277 85 L285 85 L281 100 Z" fill="black"/>
+<path d="M97 181 L105 181 L101 196 Z" fill="black"/>
+<path d="M277 181 L285 181 L281 196 Z" fill="black"/>
+<path d="M97 277 L105 277 L101 292 Z" fill="black"/>
+<path d="M277 277 L285 277 L281 292 Z" fill="black"/>
+<path d="M97 374 L105 374 L101 389 Z" fill="black"/>
+<path d="M277 374 L285 374 L281 389 Z" fill="black"/>
+<circle cx="191" cy="51" r="12" fill="#888" stroke="#333" stroke-width="1.5"/>
+<text x="32" y="58" font-family="Arial, Liberation Sans, sans-serif" font-size="30" >A</text>
+<circle cx="191" cy="147" r="12" fill="#888" stroke="#333" stroke-width="1.5"/>
+<text x="32" y="154" font-family="Arial, Liberation Sans, sans-serif" font-size="30" >B</text>
+<circle cx="191" cy="243" r="12" fill="#888" stroke="#333" stroke-width="1.5"/>
+<text x="32" y="250" font-family="Arial, Liberation Sans, sans-serif" font-size="30" >C</text>
+<circle cx="191" cy="339" r="12" fill="#888" stroke="#333" stroke-width="1.5"/>
+<text x="32" y="346" font-family="Arial, Liberation Sans, sans-serif" font-size="30" >D</text>
+<path d="M779 51 L610 147" stroke="#555" stroke-width="1.5"/>
+<path d="M779 51 L936 147" stroke="#555" stroke-width="1.5"/>
+<path d="M610 147 L562 243" stroke="#555" stroke-width="1.5"/>
+<path d="M610 147 L658 243" stroke="#555" stroke-width="1.5"/>
+<path d="M936 147 L887 243" stroke="#555" stroke-width="1.5"/>
+<path d="M936 147 L984 243" stroke="#555" stroke-width="1.5"/>
+<circle cx="779" cy="51" r="12" fill="#888" stroke="#333" stroke-width="1.5"/>
+<text x="715" y="58" font-family="Arial, Liberation Sans, sans-serif" font-size="30" >A</text>
+<circle cx="610" cy="147" r="12" fill="#888" stroke="#333" stroke-width="1.5"/>
+<text x="563" y="154" font-family="Arial, Liberation Sans, sans-serif" font-size="30" >B</text>
+<circle cx="936" cy="147" r="12" fill="#888" stroke="#333" stroke-width="1.5"/>
+<text x="889" y="154" font-family="Arial, Liberation Sans, sans-serif" font-size="30" >B</text>
+<path d="M538 327 L562 243 L586 327" stroke="#555" stroke-width="1.5" fill="none"/>
+<circle cx="562" cy="243" r="12" fill="#888" stroke="#333" stroke-width="1.5"/>
+<text x="515" y="250" font-family="Arial, Liberation Sans, sans-serif" font-size="30" >C</text>
+<path d="M634 327 L658 243 L682 327" stroke="#555" stroke-width="1.5" fill="none"/>
+<circle cx="658" cy="243" r="12" fill="#888" stroke="#333" stroke-width="1.5"/>
+<text x="611" y="250" font-family="Arial, Liberation Sans, sans-serif" font-size="30" >C</text>
+<path d="M863 327 L887 243 L911 327" stroke="#555" stroke-width="1.5" fill="none"/>
+<circle cx="887" cy="243" r="12" fill="#888" stroke="#333" stroke-width="1.5"/>
+<text x="840" y="250" font-family="Arial, Liberation Sans, sans-serif" font-size="30" >C</text>
+<path d="M960 327 L984 243 L1008 327" stroke="#555" stroke-width="1.5" fill="none"/>
+<circle cx="984" cy="243" r="12" fill="#888" stroke="#333" stroke-width="1.5"/>
+<text x="937" y="250" font-family="Arial, Liberation Sans, sans-serif" font-size="30" >C</text>
+</svg>

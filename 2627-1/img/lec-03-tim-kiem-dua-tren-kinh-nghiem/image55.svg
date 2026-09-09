@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1054 89" data-redrawn="manual" role="img" aria-labelledby="title desc">
+<title id="title">h(n) = max(h_a(n), h_b(n))</title>
+<desc id="desc">Biểu thức h(n) = max(h_a(n), h_b(n)) màu đỏ.</desc>
+<g transform="matrix(0.95845204 0 0 0.86508000 8.04683575 66.12700000)"><text x="0" y="0" xml:space="preserve" font-family="Latin Modern Roman, STIX, Times New Roman, serif" font-size="100" fill="#ff0000"><tspan font-style="italic">h</tspan><tspan font-style="normal">(</tspan><tspan font-style="italic">n</tspan><tspan font-style="normal">) = </tspan><tspan font-style="italic">max</tspan><tspan font-style="normal">(</tspan><tspan font-style="italic">h</tspan><tspan font-style="italic" font-size="70" baseline-shift="-15">a</tspan><tspan font-style="normal">(</tspan><tspan font-style="italic">n</tspan><tspan font-style="normal">), </tspan><tspan font-style="italic">h</tspan><tspan font-style="italic" font-size="70" baseline-shift="-15">b</tspan><tspan font-style="normal">(</tspan><tspan font-style="italic">n</tspan><tspan font-style="normal">))</tspan></text></g>
+</svg>

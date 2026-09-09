@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1378 827" role="img" data-redrawn="manual" aria-labelledby="title desc">
+<title id="title">Bản đồ đường bộ Romania</title>
+<desc id="desc">Hai mươi thành phố nối bằng hai mươi ba tuyến đường có số đo khoảng cách. Arad được khoanh tròn; Bucharest được khoanh nhiều vòng.</desc>
+<rect width="1378" height="827" fill="white"/>
+<g stroke="#202020" stroke-width="2.3" fill="none">
+<path d="M195 25 L138 126" data-road="Oradea--Zerind" data-distance="71"/>
+<path d="M195 25 L392 317" data-road="Oradea--Sibiu" data-distance="151"/>
+<path d="M138 126 L93 229" data-road="Zerind--Arad" data-distance="75"/>
+<path d="M93 229 L392 317" data-road="Arad--Sibiu" data-distance="140"/>
+<path d="M93 229 L100 439" data-road="Arad--Timisoara" data-distance="118"/>
+<path d="M100 439 L282 519" data-road="Timisoara--Lugoj" data-distance="111"/>
+<path d="M282 519 L291 619" data-road="Lugoj--Mehadia" data-distance="70"/>
+<path d="M291 619 L282 722" data-road="Mehadia--Dobreta" data-distance="75"/>
+<path d="M282 722 L509 752" data-road="Dobreta--Craiova" data-distance="120"/>
+<path d="M392 317 L647 338" data-road="Sibiu--Fagaras" data-distance="99"/>
+<path d="M392 317 L457 439" data-road="Sibiu--Rimnicu Vilcea" data-distance="80"/>
+<path d="M457 439 L509 752" data-road="Rimnicu Vilcea--Craiova" data-distance="146"/>
+<path d="M457 439 L683 549" data-road="Rimnicu Vilcea--Pitesti" data-distance="97"/>
+<path d="M509 752 L683 549" data-road="Craiova--Pitesti" data-distance="138"/>
+<path d="M647 338 L888 650" data-road="Fagaras--Bucharest" data-distance="211"/>
+<path d="M683 549 L888 650" data-road="Pitesti--Bucharest" data-distance="101"/>
+<path d="M888 650 L822 796" data-road="Bucharest--Giurgiu" data-distance="90"/>
+<path d="M888 650 L1034 593" data-road="Bucharest--Urziceni" data-distance="85"/>
+<path d="M1034 593 L1231 593" data-road="Urziceni--Hirsova" data-distance="98"/>
+<path d="M1034 593 L1168 350" data-road="Urziceni--Vaslui" data-distance="142"/>
+<path d="M1231 593 L1304 738" data-road="Hirsova--Eforie" data-distance="86"/>
+<path d="M1168 350 L1077 192" data-road="Vaslui--Iasi" data-distance="92"/>
+<path d="M1077 192 L902 114" data-road="Iasi--Neamt" data-distance="87"/>
+</g><g fill="#222" font-family="Liberation Serif, Times New Roman, serif" font-size="31" font-style="normal" text-anchor="middle">
+<text x="144" y="66">71</text>
+<text x="328" y="161">151</text>
+<text x="90" y="174">75</text>
+<text x="243" y="250">140</text>
+<text x="63" y="343">118</text>
+<text x="177" y="508">111</text>
+<text x="261" y="577">70</text>
+<text x="259" y="678">75</text>
+<text x="395" y="722">120</text>
+<text x="536" y="314">99</text>
+<text x="453" y="379">80</text>
+<text x="518" y="615">146</text>
+<text x="557" y="529">97</text>
+<text x="623" y="680">138</text>
+<text x="810" y="502">211</text>
+<text x="759" y="623">101</text>
+<text x="878" y="751">90</text>
+<text x="955" y="610">85</text>
+<text x="1141" y="581">98</text>
+<text x="1140" y="483">142</text>
+<text x="1297" y="667">86</text>
+<text x="1152" y="271">92</text>
+<text x="1008" y="140">87</text>
+</g><g fill="#bfbfbf" stroke="black" stroke-width="7">
+<rect x="184" y="14" width="22" height="22" data-city="Oradea"/>
+<rect x="127" y="115" width="22" height="22" data-city="Zerind"/>
+<rect x="82" y="218" width="22" height="22" data-city="Arad"/>
+<rect x="381" y="306" width="22" height="22" data-city="Sibiu"/>
+<rect x="89" y="428" width="22" height="22" data-city="Timisoara"/>
+<rect x="271" y="508" width="22" height="22" data-city="Lugoj"/>
+<rect x="280" y="608" width="22" height="22" data-city="Mehadia"/>
+<rect x="271" y="711" width="22" height="22" data-city="Dobreta"/>
+<rect x="498" y="741" width="22" height="22" data-city="Craiova"/>
+<rect x="446" y="428" width="22" height="22" data-city="Rimnicu Vilcea"/>
+<rect x="636" y="327" width="22" height="22" data-city="Fagaras"/>
+<rect x="672" y="538" width="22" height="22" data-city="Pitesti"/>
+<rect x="877" y="639" width="22" height="22" data-city="Bucharest"/>
+<rect x="811" y="785" width="22" height="22" data-city="Giurgiu"/>
+<rect x="1023" y="582" width="22" height="22" data-city="Urziceni"/>
+<rect x="1220" y="582" width="22" height="22" data-city="Hirsova"/>
+<rect x="1293" y="727" width="22" height="22" data-city="Eforie"/>
+<rect x="1157" y="339" width="22" height="22" data-city="Vaslui"/>
+<rect x="1066" y="181" width="22" height="22" data-city="Iasi"/>
+<rect x="891" y="103" width="22" height="22" data-city="Neamt"/>
+</g><g fill="none" stroke="black" stroke-width="3.5"><circle cx="93" cy="229" r="22"/><circle cx="888" cy="650" r="28"/><circle cx="888" cy="650" r="22"/></g>
+<g fill="black" font-family="Arial, sans-serif" font-size="32" font-weight="700">
+<text x="215" y="31">Oradea</text>
+<text x="155" y="148">Zerind</text>
+<text x="6" y="235">Arad</text>
+<text x="407" y="293">Sibiu</text>
+<text x="111" y="431">Timisoara</text>
+<text x="305" y="525">Lugoj</text>
+<text x="308" y="628">Mehadia</text>
+<text x="145" y="729">Dobreta</text>
+<text x="520" y="774">Craiova</text>
+<text x="461" y="416">Rimnicu Vilcea</text>
+<text x="607" y="299">Fagaras</text>
+<text x="644" y="512">Pitesti</text>
+<text x="901" y="695">Bucharest</text>
+<text x="840" y="802">Giurgiu</text>
+<text x="1015" y="628">Urziceni</text>
+<text x="1249" y="598">Hirsova</text>
+<text x="1274" y="781">Eforie</text>
+<text x="1186" y="357">Vaslui</text>
+<text x="1097" y="199">Iasi</text>
+<text x="857" y="81">Neamt</text>
+</g>
+</svg>
